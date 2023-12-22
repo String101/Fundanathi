@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mma6e2j/bhiNwKu1GUi/eeKjGtd7uMwikHHqdbM4gzg5Uuwmd3f1Qm0dcdsEUikOvWgYNNaqQJLc2aMb9u5G/A==",
+  "dgSpecHash": "RwEQrq2+kNgEmWlSe2mLHqccFNGTsnZwPciSmjk1oBfD1gYgEGiEn64GnLuJOdKvQoiya3WCkjX9LX7udzYFqA==",
   "success": true,
-  "projectFilePath": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi\\Fundanathi.csproj",
+  "projectFilePath": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thusi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\thusi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi\\Fundanathi.csproj": {}
+    "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi.csproj": {}
   },
   "projects": {
-    "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi\\Fundanathi.csproj": {
+    "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi\\Fundanathi.csproj",
+        "projectUniqueName": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi.csproj",
         "projectName": "Fundanathi",
-        "projectPath": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi\\Fundanathi.csproj",
+        "projectPath": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi.csproj",
         "packagesPath": "C:\\Users\\thusi\\.nuget\\packages\\",
-        "outputPath": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\Fundanathi\\obj\\",
+        "outputPath": "C:\\Flutter\\Asp\\Fundanathi\\Fundanathi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thusi\\AppData\\Roaming\\NuGet\\NuGet.Config",
